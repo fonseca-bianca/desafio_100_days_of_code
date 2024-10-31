@@ -12,3 +12,6 @@ print(x)
 
 
 
+
+word = 'motorbike'
+print(word.find('r'))

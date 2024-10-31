@@ -11,4 +11,6 @@ x = rect(50, 50)
 print(x)
 
 
+channel = "cnn"
+print(channel.capitalize())
 

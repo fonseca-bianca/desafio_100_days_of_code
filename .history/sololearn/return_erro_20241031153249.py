@@ -12,3 +12,6 @@ print(x)
 
 
 
+
+book = "1984"
+print(len(book))
