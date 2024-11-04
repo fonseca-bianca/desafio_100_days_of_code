@@ -10,6 +10,5 @@ print("Total price is: ", prices)
 number_of_products = len(prices)
 print("Number of products is: ", number_of_products)
 
-# cálculo média
 average_price = total/number_of_products
 print("Average price is: ", average_price)
